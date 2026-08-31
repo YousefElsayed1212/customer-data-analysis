@@ -1,23 +1,28 @@
 # Customer Data Cleaning & Analysis
 
-## Overview
-A practical Python portfolio project showing how to inspect, clean, preprocess, analyze, and visualize customer sales data.
+A practical Python project demonstrating **data cleaning, preprocessing, exploratory data analysis, and visualization** on customer sales data.
 
-## Tools
-Python, Pandas, NumPy, Matplotlib, Jupyter Notebook.
+## 🛠️ Tools & Skills
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
 
-## Tasks
-- Inspect dataset structure
-- Find missing values and duplicates
-- Handle missing values
-- Remove duplicate rows
-- Handle obvious outliers
-- Convert date data
-- Analyze sales by category and region
-- Create visualizations
-- Export a cleaned CSV
+## 📊 What I Did
+- Inspected the dataset structure and statistics
+- Identified missing values and duplicate rows
+- Handled missing values using appropriate strategies
+- Removed duplicate records
+- Converted date columns to the correct data type
+- Detected and handled obvious outliers
+- Analyzed sales by category and region
+- Created charts to communicate findings
+- Exported a cleaned CSV dataset
 
-## Project Structure
+## 📁 Project Structure
 ```text
 customer-data-analysis/
 ├── data/
@@ -30,11 +35,23 @@ customer-data-analysis/
 │   ├── sales_distribution.png
 │   ├── customers_by_region.png
 │   └── correlation_heatmap.png
+├── requirements.txt
 └── README.md
 ```
 
-## How to Run
-Open `notebooks/customer_analysis.ipynb` in Jupyter Notebook or Google Colab and run the cells from top to bottom.
+## 🚀 How to Run
 
-## Portfolio Goal
-The project demonstrates practical skills in data cleaning, preprocessing, exploratory data analysis, and visualization.
+1. Clone or download this repository.
+2. Install the dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Open `notebooks/customer_analysis.ipynb` in Jupyter Notebook or Google Colab.
+4. Run the cells from top to bottom.
+
+## 💼 Portfolio
+This project demonstrates practical skills that can be applied to real-world Excel/CSV data cleaning and analysis tasks.
+
+If you need help cleaning, preprocessing, or analyzing a dataset, feel free to contact me.
