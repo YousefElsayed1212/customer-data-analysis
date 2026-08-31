@@ -17,7 +17,7 @@ Python, Pandas, NumPy, Matplotlib, Jupyter Notebook.
 - Create visualizations
 - Export a cleaned CSV
 
-## Structure
+## Project Structure
 ```text
 customer-data-analysis/
 ├── data/
@@ -35,3 +35,6 @@ customer-data-analysis/
 
 ## How to Run
 Open `notebooks/customer_analysis.ipynb` in Jupyter Notebook or Google Colab and run the cells from top to bottom.
+
+## Portfolio Goal
+The project demonstrates practical skills in data cleaning, preprocessing, exploratory data analysis, and visualization.
